@@ -7,7 +7,11 @@
 Esta página tem como objetivo testar o MarkDown
 
 **Negrito**
+
 ~~Tachado~~
+
 _Italico_
+
 Isso é um <sub>subscrito</sub>
+
 E isso aqui é um <sup>sobrescrito</sup>
