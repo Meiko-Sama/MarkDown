@@ -27,3 +27,6 @@ Documento sobre o que é MarkDown ☜(ﾟヮﾟ☜) 눈_눈
 ###### This message is from 04/29, now im gonna learn more about github. I still didnt do my site "JustMeiko Experiences" but they gonna be created, believe in me, so how you guys doing?
 ###### My birthday is close now, but theyre gonna be in a MONDAY, im not happy to celebrate my birthday in school and not only that, doing SENAI, meh it could be worse. Altough im gonna spend the whole day with my friends. Maybe that day I will be happy... See you guys later.
 ###### Past massage from 2024 :)
+ im
+## Hello its me again :D, your favorite person... thats a lie, welp today our teacher made us change plataforms now Im curently in WokWi.com, today we are setting a Arduino Uno to know wich temperature is safe or not and when they detected them a LED gonna light up to say. And not only that im sleepy, maybe im gonna die of boreness, see you one day! 06/10
+###### Past massage from 2024 :D
